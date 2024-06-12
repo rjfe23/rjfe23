@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/rj-evans/">Cybersecurity Professional</a>, 
+<h1>Hi, I'm R.J. Evans! <br/><a href="https://github.com/rjfe23">Programmer</a>, <a href="https://www.linkedin.com/in/rj-evans/">Cybersecurity Professional</a>, 
 
 <h2>👨‍💻 Cybersecurity & Information Assurance Projects:</h2>
 
