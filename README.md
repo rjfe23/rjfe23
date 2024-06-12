@@ -11,7 +11,8 @@
 
 
 
-<h2> FIU MBA in Cybersecurity Risk Management </h2>
+<h2> Florida International University
+  MBA in Cybersecurity Risk Management </h2>
 
 
 <h2> 🤳 Connect with me:</h2>
