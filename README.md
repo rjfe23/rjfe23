@@ -14,9 +14,9 @@ My journey in IT has sparked a passion for cybersecurity, particularly in GRC an
 <img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNA-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20CCP-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-PMI%20CAPM-5D2D91?&style=for-the-badge&logo=Project%20Management%20Institute&logoColor=white" />
+
 </div>
 
 ## Skills
