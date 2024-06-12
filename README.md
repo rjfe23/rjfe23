@@ -28,7 +28,7 @@ My journey in IT has sparked a passion for cybersecurity, particularly in GRC an
 ### Florida International University, MBA in Cybersecurity Risk Management
 ### University of Maryland Global Campus, BS in Computer Networks & Cybersecurity
 <a href="https://github.com/rjfe23/certifications/blob/main/UMGC%20Degree.jpg" >
-    <img src="https://img.shields.io/badge/Degree-FF0000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Degree-FF0000?style=for-the-badge&logoColor=white" style="text-decoration: none;" />
 
 
 ## Skills
