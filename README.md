@@ -24,6 +24,10 @@ My journey in IT has sparked a passion for cybersecurity, particularly in GRC an
 
 </div>
 
+## 👨🏾‍🎓 Education 
+   ### Florida International University, MBA in Cybersecurity Risk Management
+   ### University of Maryland Global Campus, BS in Computer Networks & Cybersecurity
+
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
@@ -60,34 +64,23 @@ My journey in IT has sparked a passion for cybersecurity, particularly in GRC an
 </div>
 
 
-## Projects
+## 👨🏾‍💻 Projects
 - Detection Lab
 - SOC Automation Project
 
 
 
 
+## 👨🏾‍🏫 Training 
 
 
 
 
-<h2> 👨🏾‍🏫 Training </h2>
-
-
-<h2> 👨🏾‍💻 Cybersecurity & Information Assurance Projects:</h2>
 
 
 
-<h2> 🪪 Certifications </h2>
 
 
-
-<h2> 👨🏾‍🎓 Florida International University, MBA in Cybersecurity Risk Management </h2>
-
-
-<h2> 🤳🏾 Connect with me:</h2>
-
-[<img align="left" alt="R.J. Evans | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
