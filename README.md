@@ -5,7 +5,7 @@ U.S. Army veteran with 8+ years of IT experience, currently pursuing an MBA in C
 
 ## Objective
 
-My journey in IT has sparked a passion for cybersecurity, particularly in GRC and information assurance. Seeking to excel in an entry- to mid-level ISSO role, leveraging my diverse skill set and proactive approach.
+My IT journey has sparked a passion for cybersecurity, particularly in GRC and information assurance. Seeking to excel in an entry- to mid-level ISSO role, leveraging my diverse skill set and proactive approach.
 
 
 ## 🪪 Certifications
