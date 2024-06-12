@@ -11,11 +11,16 @@ My journey in IT has sparked a passion for cybersecurity, particularly in GRC an
 ## 🪪 Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCNA-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS%20CCP-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-<img src="https://img.shields.io/badge/-PMI%20CAPM-5D2D91?&style=for-the-badge&logo=Project%20Management%20Institute&logoColor=white" />
+<a href="https://github.com/rjfe23/certifications/blob/main/CompTIA%20CySA%2B%20ce.pdf">    
+    <img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://github.com/rjfe23/certifications/blob/main/CompTIA%20Security%2B%20ce.pdf">
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://github.com/rjfe23/certifications/blob/main/CCNA.pdf">
+    <img src="https://img.shields.io/badge/-CCNA-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<a href="https://github.com/rjfe23/certifications/blob/main/AWS%20CCP.pdf">
+    <img src="https://img.shields.io/badge/-AWS%20CCP-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+<a href="https://github.com/rjfe23/certifications/blob/main/PMI%20CAPM.pdf" >
+    <img src="https://img.shields.io/badge/-PMI%20CAPM-5D2D91?&style=for-the-badge&logo=Project%20Management%20Institute&logoColor=white" />
 
 </div>
 
