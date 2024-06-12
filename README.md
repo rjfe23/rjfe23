@@ -34,7 +34,7 @@ My journey in IT has sparked a passion for cybersecurity, particularly in GRC an
 
 </div>
 
-## Frameworks & Standards
+## 📚 Frameworks & Standards
 
 <div>
     
