@@ -1,4 +1,4 @@
-<h1>Hi, I'm R.J. Evans! <br/><a href="https://github.com/rjfe23">IT Professional</a> <a href="https://www.linkedin.com/in/rj-evans/">looking to pivot my career into Governance, Risk & Compliance (GRC)</a>. 
+<h1>Hi, I'm R.J. Evans! <br/><a href="https://github.com/rjfe23">IT Professional</a> <a href="https://www.linkedin.com/in/rj-evans/">looking to pivot career into Governance, Risk & Compliance (GRC)</a>. 
 
 <h2> 👨🏾‍🏫 Training </h2>
 
