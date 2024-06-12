@@ -38,7 +38,7 @@ My journey in IT has sparked a passion for cybersecurity, particularly in GRC an
 
 <div>
     
-## Skills
+## 🤹🏾‍♂️ Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
@@ -50,7 +50,7 @@ My journey in IT has sparked a passion for cybersecurity, particularly in GRC an
 | ...                  | ...|
 | ... | ...|
 
-## Tools
+## 🧰 Tools
 
 ### Operating Systems
 <div>
