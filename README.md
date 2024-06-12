@@ -44,11 +44,6 @@ My IT journey has sparked a passion for cybersecurity, particularly in GRC and i
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | ...          | ... |
-| ... | ...|
-| ...       | ...|
-| ...      | ...|
-| ...                  | ...|
-| ... | ...|
 
 ## 🧰 Tools
 
