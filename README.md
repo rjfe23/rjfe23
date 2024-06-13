@@ -45,7 +45,7 @@ My IT journey has sparked a passion for cybersecurity, particularly in GRC and i
 
 <div>
 
-## MBA Insights in GRC
+## 📝MBA Insights in GRC
 
 
 <div>
