@@ -103,9 +103,9 @@ My IT journey has sparked a passion for cybersecurity, particularly in GRC and i
 
 
 ## 👨🏾‍🏫 Training 
-| Course Review                                 | Certificate         |
+| Course Review & Notes                                 | Certificate         |
 |-----------------------------------------------|----------------------------|
-| Security Testing: Nmap Security Scanning          | [📜](https://github.com/rjfe23/certifications/blob/main/Security%20Testing%20Nmap%20Security%20Scanning.pdf) |
+| [Security Testing: Nmap Security Scanning](https://github.com/rjfe23/Course-Notes/blob/main/NMAP.pdf)          | [📜](https://github.com/rjfe23/certifications/blob/main/Security%20Testing%20Nmap%20Security%20Scanning.pdf) |
 
 
 
