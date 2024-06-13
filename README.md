@@ -73,6 +73,7 @@ My IT journey has sparked a passion for cybersecurity, particularly in GRC and i
 ### Hypervisors
 <div>
 <img src="https://img.shields.io/badge/VMware_Workstation_Pro-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" />
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 
 
