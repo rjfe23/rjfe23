@@ -35,6 +35,11 @@ My IT journey has sparked a passion for cybersecurity, particularly in GRC and i
 </div>
 
 ## 📚 Frameworks & Standards
+- NIST 800-37 RMF
+- NIST CSF 2.0
+- COBIT 5
+- ISO 27001
+
 
 <div>
     
