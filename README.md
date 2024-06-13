@@ -44,6 +44,11 @@ My IT journey has sparked a passion for cybersecurity, particularly in GRC and i
 
 
 <div>
+
+## MBA Insights in GRC
+
+
+<div>
     
 ## 🤹🏾‍♂️ Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
