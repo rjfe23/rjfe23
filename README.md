@@ -47,7 +47,7 @@ My IT journey has sparked a passion for cybersecurity, particularly in GRC and i
 
 ## 📝 MBA Insights in GRC
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project        |
 |-----------------------------------------------|----------------------------|
 | COBIT 5 Case Study Analysis | [Project Link](https://github.com/rjfe23/ISM6575-wk2) |
 
@@ -56,7 +56,7 @@ My IT journey has sparked a passion for cybersecurity, particularly in GRC and i
 ## 🤹🏾‍♂️ Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project/Training        |
 |-----------------------------------------------|----------------------------|
 | ...          | ... |
 
