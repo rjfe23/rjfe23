@@ -58,7 +58,7 @@ My IT journey has sparked a passion for cybersecurity, particularly in GRC and i
 
 | Skill                                         | Associated Project/Training        |
 |-----------------------------------------------|----------------------------|
-| ...          | ... |
+| Scanning for Vulnerabilities          | [Security Testing: Nmap Security Scanning](https://github.com/rjfe23/Course-Notes/blob/main/NMAP.pdf) |
 
 ## 🧰 Tools
 
