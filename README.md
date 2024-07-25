@@ -98,7 +98,7 @@ My IT journey has sparked a passion for cybersecurity, particularly in GRC and i
 
 
 ## 👨🏾‍💻 Projects
-- Detection Lab
+- Personal VPN
 - SOC Automation Project
 
 
