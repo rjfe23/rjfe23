@@ -50,6 +50,7 @@ My IT journey has sparked a passion for cybersecurity, particularly in GRC and i
 | Skill                                         | Associated Project        |
 |-----------------------------------------------|----------------------------|
 | COBIT 5 Case Study Analysis | [Project Link](https://github.com/rjfe23/ISM6575-wk2) |
+| Vulnerability Mgmt within Healthcare | [Project Research Paper](https://github.com/rjfe23/MBA-Group-Projects/blob/main/ISM6575%20Final%20-%20Vulnerability%20Mgmt%20Research%20Paper.pdf) / [Project PP](https://github.com/rjfe23/MBA-Group-Projects/blob/main/ISM6575%20Final%20-%20PP%20Presentaiton.pdf) |
 
 <div>
     
